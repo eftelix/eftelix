@@ -1,6 +1,6 @@
 <div align="center">
 
-# Merhaba, ben Eftelix 👋
+# Merhaba, ben Eftel 👋
 
 Oyun geliştiriyorum, korku oyunlarını seviyorum ve yaptıklarımı YouTube'da paylaşıyorum.
 
